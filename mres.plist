@@ -12,7 +12,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>http://183.63.96.75:8001/mobileserver/ipa/mres.ipa</string>
+						<string>http://xx.xx.xx.xx:xxx/mobileserver/ipa/mres.ipa</string>
 					</dict>
 				</array>
 				<key>metadata</key>
